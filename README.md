@@ -1,2 +1,2 @@
-Just for learning git and git hub <br>
+Just for learning git and git hub. <br>
 because i want to become a programmer.
